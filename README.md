@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9yiFT0GTTjBeaeMi_85LzQYYvN5TzOpCadw&s))]
 <h1 align="center">Hi 👋, I'm Md Mydul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img  alt="coding" align="right" width="400"  src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1xEHKpUQXI4TDDcZGLgzEiEK4cjPv4VPs/view?usp=sharing](https://drive.google.com/file/d/1xEHKpUQXI4TDDcZGLgzEiEK4cjPv4VPs/view?usp=sharing)
-
 - 💬 Ask me about **MERN,React js,Javascript**
 
-- 📫 How to reach me **mydulcse62@gmail.com**
+- 📫 How to reach me **mahim-eight.vercel.app**
 
 - ⚡ Fun fact **I am funny**
 

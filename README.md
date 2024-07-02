@@ -11,11 +11,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahim62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahim62" height="30" width="40" /></a>
 </p>
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning Next js,typescript
 
 - 💬 Ask me about **MERN,React js,Javascript**
 
-- 📫 How to reach me **mahim-eight.vercel.app**
+- 📫 How to reach me **[mahim-eight.vercel.app](https://mahim-eight.vercel.app/)**
 
 - ⚡ Fun fact **I am funny**
 
